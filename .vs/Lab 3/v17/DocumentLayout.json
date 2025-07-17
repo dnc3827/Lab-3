@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\Lab_ASP.NET Core MVC\\Lab 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|c:\\users\\pc\\onedrive\\m\u00E1y t\u00EDnh\\lab_asp.net core mvc\\lab 3\\lab 3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|c:\\users\\pc\\onedrive\\m\u00E1y t\u00EDnh\\lab_asp.net core mvc\\lab 3\\lab 3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|c:\\users\\pc\\onedrive\\m\u00E1y t\u00EDnh\\lab_asp.net core mvc\\lab 3\\lab 3\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|c:\\users\\pc\\onedrive\\m\u00E1y t\u00EDnh\\lab_asp.net core mvc\\lab 3\\lab 3\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|c:\\users\\pc\\onedrive\\m\u00E1y t\u00EDnh\\lab_asp.net core mvc\\lab 3\\lab 3\\models\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\models\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 37,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\Lab_ASP.NET Core MVC\\Lab 3\\Lab 3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab 3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\Lab_ASP.NET Core MVC\\Lab 3\\Lab 3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab 3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T07:12:36.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\Lab_ASP.NET Core MVC\\Lab 3\\Lab 3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab 3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\Lab_ASP.NET Core MVC\\Lab 3\\Lab 3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab 3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T07:11:50.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\Lab_ASP.NET Core MVC\\Lab 3\\Lab 3\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab 3\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\Lab_ASP.NET Core MVC\\Lab 3\\Lab 3\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Lab 3\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T07:06:59.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\Lab_ASP.NET Core MVC\\Lab 3\\Lab 3\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Lab 3\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\Lab_ASP.NET Core MVC\\Lab 3\\Lab 3\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Lab 3\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T07:00:01.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\Lab_ASP.NET Core MVC\\Lab 3\\Lab 3\\Models\\InventoryContext.cs",
+              "RelativeDocumentMoniker": "Lab 3\\Models\\InventoryContext.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\Lab_ASP.NET Core MVC\\Lab 3\\Lab 3\\Models\\InventoryContext.cs",
+              "RelativeToolTip": "Lab 3\\Models\\InventoryContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:30:27.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 37,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
