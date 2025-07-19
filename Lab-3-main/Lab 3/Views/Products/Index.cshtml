@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Lab_3.Models.Product>
+
+@{
+    ViewData["Title"] = "Featured Collection";
+}
+
+<h2 class="mt-4 mb-3">FEATURED COLLECTION</h2>
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-3 mb-4">
+            <div class="card h-100 shadow-sm">
+                <img src="@product.ImageUrl" alt="@product.Name" class="card-img-top" style="height:200px; object-fit:contain;" />
+
+                <div class="card-body text-center">
+                    <h6 class="card-title">@product.Name</h6>
+
+                    <p class="mb-1">
+                        <strong>@product.UnitPrice.ToString("C")</strong>
+                    </p>
+
+                    @if (product.OriginalPrice.HasValue && product.OriginalPrice > product.UnitPrice)
+                    {
+                        <p class="mb-1 text-muted">
+                            <s>@product.OriginalPrice.Value.ToString("C")</s>
+                        </p>
+                        <span class="badge bg-success">
+                            SAVE @( (product.OriginalPrice.Value - product.UnitPrice).ToString("C") )
+                        </span>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+</div>
