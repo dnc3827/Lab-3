@@ -30,20 +30,35 @@ public partial class InventoryContext : DbContext
             entity.Property(e => e.Category)
                 .HasMaxLength(100)
                 .IsUnicode(false);
+
             entity.Property(e => e.Color)
                 .HasMaxLength(20)
                 .IsUnicode(false);
+
             entity.Property(e => e.CreateDate)
                 .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime");
+
             entity.Property(e => e.Name)
                 .HasMaxLength(100)
                 .IsUnicode(false);
-            entity.Property(e => e.UnitPrice).HasColumnType("decimal(18, 0)");
+
+            entity.Property(e => e.UnitPrice)
+                .HasColumnType("decimal(18, 0)");
+
+            // 👉 Thêm cấu hình cho OriginalPrice
+            entity.Property(e => e.OriginalPrice)
+                .HasColumnType("decimal(18, 0)");
+
+            // 👉 Thêm cấu hình cho ImageUrl
+            entity.Property(e => e.ImageUrl)
+                .HasMaxLength(255)
+                .IsUnicode(false);
         });
 
         OnModelCreatingPartial(modelBuilder);
     }
+
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\TRUNG NGUYEN\\Desktop\\GITHUB\\Lab-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|c:\\users\\trung nguyen\\desktop\\github\\lab-3\\lab 3\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|c:\\users\\trung nguyen\\desktop\\github\\lab-3\\lab 3\\models\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\models\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|c:\\users\\trung nguyen\\desktop\\github\\lab-3\\lab 3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|c:\\users\\trung nguyen\\desktop\\github\\lab-3\\lab 3\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|c:\\users\\trung nguyen\\desktop\\github\\lab-3\\lab 3\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|c:\\users\\trung nguyen\\desktop\\github\\lab-3\\lab 3\\models\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\models\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9F74A8F-B560-4EEC-BB6C-954D4B36BED5}|Lab 3\\Lab 3.csproj|c:\\users\\trung nguyen\\desktop\\github\\lab-3\\lab 3\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 37,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TRUNG NGUYEN\\Desktop\\GITHUB\\Lab-3\\Lab 3\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab 3\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TRUNG NGUYEN\\Desktop\\GITHUB\\Lab-3\\Lab 3\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Lab 3\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T07:20:48.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\TRUNG NGUYEN\\Desktop\\GITHUB\\Lab-3\\Lab 3\\Models\\InventoryContext.cs",
+              "RelativeDocumentMoniker": "Lab 3\\Models\\InventoryContext.cs",
+              "ToolTip": "C:\\Users\\TRUNG NGUYEN\\Desktop\\GITHUB\\Lab-3\\Lab 3\\Models\\InventoryContext.cs",
+              "RelativeToolTip": "Lab 3\\Models\\InventoryContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T07:01:50.927Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -43,38 +69,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\TRUNG NGUYEN\\Desktop\\GITHUB\\Lab-3\\Lab 3\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Lab 3\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\TRUNG NGUYEN\\Desktop\\GITHUB\\Lab-3\\Lab 3\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Lab 3\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T07:20:48.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InventoryContext.cs",
-              "DocumentMoniker": "C:\\Users\\TRUNG NGUYEN\\Desktop\\GITHUB\\Lab-3\\Lab 3\\Models\\InventoryContext.cs",
-              "RelativeDocumentMoniker": "Lab 3\\Models\\InventoryContext.cs",
-              "ToolTip": "C:\\Users\\TRUNG NGUYEN\\Desktop\\GITHUB\\Lab-3\\Lab 3\\Models\\InventoryContext.cs",
-              "RelativeToolTip": "Lab 3\\Models\\InventoryContext.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T07:01:50.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\TRUNG NGUYEN\\Desktop\\GITHUB\\Lab-3\\Lab 3\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Lab 3\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\TRUNG NGUYEN\\Desktop\\GITHUB\\Lab-3\\Lab 3\\Models\\Product.cs",
               "RelativeToolTip": "Lab 3\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T13:55:39.088Z",
               "EditorCaption": ""
@@ -89,11 +89,12 @@
               "RelativeToolTip": "Lab 3\\Views\\Products\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T13:51:43.535Z"
+              "WhenOpened": "2025-07-17T13:51:43.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\TRUNG NGUYEN\\Desktop\\GITHUB\\Lab-3\\Lab 3\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Lab 3\\Controllers\\ProductsController.cs",

@@ -1,21 +1,26 @@
 ﻿using System;
-using System.Collections.Generic;
 
-namespace Lab_3.Models;
-
-public partial class Product
+namespace Lab_3.Models
 {
-    public long ProductId { get; set; }
+    public partial class Product
+    {
+        public long ProductId { get; set; }
 
-    public string Name { get; set; } = null!;
+        public string Name { get; set; } = null!;
 
-    public string? Category { get; set; }
+        public decimal UnitPrice { get; set; }     // Giá đang bán
 
-    public string? Color { get; set; }
+        public decimal? OriginalPrice { get; set; } // Giá gốc (có thể null)
 
-    public decimal UnitPrice { get; set; }
+        public string? ImageUrl { get; set; }       // Đường dẫn ảnh sản phẩm
 
-    public long AvailableQuantity { get; set; }
+        // Các trường khác nếu bạn vẫn muốn giữ
+        public string? Category { get; set; }
 
-    public DateTime CreateDate { get; set; }
+        public string? Color { get; set; }
+
+        public long AvailableQuantity { get; set; }
+
+        public DateTime CreateDate { get; set; }
+    }
 }
